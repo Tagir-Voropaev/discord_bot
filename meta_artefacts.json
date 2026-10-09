@@ -1,0 +1,267 @@
+[
+  {
+    "id": "wg53",
+    "name": "Атом",
+    "category": "electrophysical"
+  },
+  {
+    "id": "kqgy",
+    "name": "Браслет",
+    "category": "gravity"
+  },
+  {
+    "id": "qodk",
+    "name": "Бубльгум",
+    "category": "other_arts"
+  },
+  {
+    "id": "wglp",
+    "name": "Ветка Калины",
+    "category": "thermal"
+  },
+  {
+    "id": "04yr",
+    "name": "Виток",
+    "category": "biochemical"
+  },
+  {
+    "id": "y5k0",
+    "name": "Вихрь",
+    "category": "thermal"
+  },
+  {
+    "id": "y5yw",
+    "name": "Гантель",
+    "category": "gravity"
+  },
+  {
+    "id": "kqr0",
+    "name": "Гелий",
+    "category": "electrophysical"
+  },
+  {
+    "id": "gy06",
+    "name": "Ершик",
+    "category": "biochemical"
+  },
+  {
+    "id": "q1lk",
+    "name": "Жабры",
+    "category": "other_arts"
+  },
+  {
+    "id": "qo59",
+    "name": "Жвачка",
+    "category": "biochemical"
+  },
+  {
+    "id": "7z77",
+    "name": "Желе",
+    "category": "other_arts"
+  },
+  {
+    "id": "y5jk",
+    "name": "Жильник",
+    "category": "gravity"
+  },
+  {
+    "id": "q10k",
+    "name": "Звено",
+    "category": "other_arts"
+  },
+  {
+    "id": "4lml",
+    "name": "Змеиный глаз",
+    "category": "biochemical"
+  },
+  {
+    "id": "jky6",
+    "name": "Изюм",
+    "category": "other_arts"
+  },
+  {
+    "id": "kqoj",
+    "name": "Каблук",
+    "category": "thermal"
+  },
+  {
+    "id": "lj0j",
+    "name": "Катушка",
+    "category": "electrophysical"
+  },
+  {
+    "id": "5r5g",
+    "name": "Ледяной ежик",
+    "category": "electrophysical"
+  },
+  {
+    "id": "jkq7",
+    "name": "Магма",
+    "category": "thermal"
+  },
+  {
+    "id": "ljpq",
+    "name": "Многогранник",
+    "category": "biochemical"
+  },
+  {
+    "id": "ljn2",
+    "name": "Морозец",
+    "category": "thermal"
+  },
+  {
+    "id": "49zn",
+    "name": "Нервяк",
+    "category": "other_arts"
+  },
+  {
+    "id": "k3yv",
+    "name": "Обруч",
+    "category": "other_arts"
+  },
+  {
+    "id": "rn1z",
+    "name": "Опал",
+    "category": "thermal"
+  },
+  {
+    "id": "5rwq",
+    "name": "Осколок",
+    "category": "electrophysical"
+  },
+  {
+    "id": "wgzd",
+    "name": "Остов",
+    "category": "gravity"
+  },
+  {
+    "id": "6goy",
+    "name": "Петля",
+    "category": "other_arts"
+  },
+  {
+    "id": "zjzn",
+    "name": "Полено",
+    "category": "other_arts"
+  },
+  {
+    "id": "y5w3",
+    "name": "Призма",
+    "category": "electrophysical"
+  },
+  {
+    "id": "5rg1",
+    "name": "Проклятая роза",
+    "category": "gravity"
+  },
+  {
+    "id": "4l1r",
+    "name": "Протоцибуля",
+    "category": "gravity"
+  },
+  {
+    "id": "ljrj",
+    "name": "Радиатор",
+    "category": "thermal"
+  },
+  {
+    "id": "wgko",
+    "name": "Роза Изнанки",
+    "category": "other_arts"
+  },
+  {
+    "id": "9n7z",
+    "name": "Рубик",
+    "category": "other_arts"
+  },
+  {
+    "id": "gy7p",
+    "name": "Сетчатка",
+    "category": "other_arts"
+  },
+  {
+    "id": "rnkl",
+    "name": "Силки",
+    "category": "other_arts"
+  },
+  {
+    "id": "j3p6",
+    "name": "Смольник",
+    "category": "other_arts"
+  },
+  {
+    "id": "qoq6",
+    "name": "Солнце",
+    "category": "thermal"
+  },
+  {
+    "id": "zymn",
+    "name": "Смалец",
+    "category": "other_arts"
+  },
+  {
+    "id": "gyq5",
+    "name": "Спираль",
+    "category": "electrophysical"
+  },
+  {
+    "id": "5rd1",
+    "name": "Стальной Ежик",
+    "category": "biochemical"
+  },
+  {
+    "id": "4lpo",
+    "name": "Статик",
+    "category": "gravity"
+  },
+  {
+    "id": "kq4v",
+    "name": "Темная калина",
+    "category": "other_arts"
+  },
+  {
+    "id": "qo06",
+    "name": "Трансформатор",
+    "category": "electrophysical"
+  },
+  {
+    "id": "qokj",
+    "name": "Тыква",
+    "category": "gravity"
+  },
+  {
+    "id": "kqj3",
+    "name": "Улитка",
+    "category": "biochemical"
+  },
+  {
+    "id": "wgwz",
+    "name": "Фаренгейт",
+    "category": "thermal"
+  },
+  {
+    "id": "51l0",
+    "name": "Харя",
+    "category": "other_arts"
+  },
+  {
+    "id": "w4jo",
+    "name": "Черная дыра",
+    "category": "other_arts"
+  },
+  {
+    "id": "k3rv",
+    "name": "Чертов еж",
+    "category": "other_arts"
+  },
+  {
+    "id": "rnvg",
+    "name": "Шишка",
+    "category": "thermal"
+  },
+  {
+    "id": "g34p",
+    "name": "Юла",
+    "category": "biochemical"
+  }
+]

@@ -1,0 +1,723 @@
+[
+  {
+    "id": "wg53",
+    "name": "Атом",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "zy32",
+    "name": "Батарейка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "wg62",
+    "name": "Белая роза",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "zyo9",
+    "name": "Болотный гнилец",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "kqgy",
+    "name": "Браслет",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "qodk",
+    "name": "Бубльгум",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "wglp",
+    "name": "Ветка Калины",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "9nvy",
+    "name": "Вехотка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "4lrn",
+    "name": "Висмут",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "04yr",
+    "name": "Виток",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "y5k0",
+    "name": "Вихрь",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "y5nz",
+    "name": "Волчьи слезы",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "j306",
+    "name": "Всполох",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "y5yw",
+    "name": "Гантель",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "kqr0",
+    "name": "Гелий",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "y54z",
+    "name": "Гиря",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "jkml",
+    "name": "Глаз бури",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "4l7p",
+    "name": "Гребешок",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "wg3p",
+    "name": "Дезинтегратор",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "zy7y",
+    "name": "Ежик",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "gy06",
+    "name": "Ершик",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "q1lk",
+    "name": "Жабры",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "kqp0",
+    "name": "Жар-птица",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "qo59",
+    "name": "Жвачка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "7z77",
+    "name": "Желе",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "y5jk",
+    "name": "Жильник",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "q10k",
+    "name": "Звено",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "zyrm",
+    "name": "Зеркало",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "4lml",
+    "name": "Змеиный глаз",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "zypm",
+    "name": "Золотистая Прима",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "jky6",
+    "name": "Изюм",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "gyln",
+    "name": "Иней",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "kqoj",
+    "name": "Каблук",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "w4no",
+    "name": "Канифоль",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "lj0j",
+    "name": "Катушка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "zyv9",
+    "name": "Кисель",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "gyjg",
+    "name": "Кислотный кристалл",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "5rm0",
+    "name": "Ключик",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "gyn0",
+    "name": "Комета",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "5rzo",
+    "name": "Корка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "gy10",
+    "name": "Красный кристалл",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "gyg5",
+    "name": "Креветка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "y5m3",
+    "name": "Криоген",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "1kw1",
+    "name": "Кристалл Изнанки",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "qo94",
+    "name": "Куриный бог",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "4lkp",
+    "name": "Лампочка Ильича",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "5r5g",
+    "name": "Ледяной ежик",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "1kdg",
+    "name": "Липкий репях",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "yq3o",
+    "name": "Личинка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "jkq7",
+    "name": "Магма",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "ljpq",
+    "name": "Многогранник",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "ljn2",
+    "name": "Морозец",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "49zn",
+    "name": "Нервяк",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "k3yv",
+    "name": "Обруч",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "zyw2",
+    "name": "Огонек",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "rn1z",
+    "name": "Опал",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "5rwq",
+    "name": "Осколок",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "wgzd",
+    "name": "Остов",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "6goy",
+    "name": "Петля",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "5rog",
+    "name": "Пиявка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "gypg",
+    "name": "Плод",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "zjzn",
+    "name": "Полено",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "y5w3",
+    "name": "Призма",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "9nd0",
+    "name": "Призрачный кристалл",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "1kv2",
+    "name": "Прима",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "5rg1",
+    "name": "Проклятая роза",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "4l1r",
+    "name": "Протоцибуля",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "ljrj",
+    "name": "Радиатор",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "9nml",
+    "name": "Репях",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "gyv6",
+    "name": "Роза",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "wgko",
+    "name": "Роза Изнанки",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "9n7z",
+    "name": "Рубик",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "jkj4",
+    "name": "Ряска",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "1k4q",
+    "name": "Сало",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "5r34",
+    "name": "Сердце",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "gy7p",
+    "name": "Сетчатка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "rnkl",
+    "name": "Силки",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "y5vw",
+    "name": "Скорлупа",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "zymn",
+    "name": "Смалец",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "j3p6",
+    "name": "Смольник",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "qoq6",
+    "name": "Солнце",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "gyq5",
+    "name": "Спираль",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "5rd1",
+    "name": "Стальной Ежик",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "4lpo",
+    "name": "Статик",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "kq4v",
+    "name": "Темная калина",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "wgr3",
+    "name": "Темный кристалл",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "qo06",
+    "name": "Трансформатор",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "1k96",
+    "name": "Трещотка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "electrophysical"
+  },
+  {
+    "id": "qokj",
+    "name": "Тыква",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "kqj3",
+    "name": "Улитка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "wgwz",
+    "name": "Фаренгейт",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "5r04",
+    "name": "Флегма",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "51l0",
+    "name": "Харя",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "zyqk",
+    "name": "Хрусталь",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "zyly",
+    "name": "Цибуля",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "w4jo",
+    "name": "Черная дыра",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "wgvd",
+    "name": "Чернильница",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "k3rv",
+    "name": "Чертов еж",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "rnvg",
+    "name": "Шишка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "thermal"
+  },
+  {
+    "id": "g34p",
+    "name": "Юла",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "biochemical"
+  },
+  {
+    "id": "9n1w",
+    "name": "Ягодка",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  },
+  {
+    "id": "y5ro",
+    "name": "Яйцо",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "other_arts"
+  },
+  {
+    "id": "5rpq",
+    "name": "Янтарник",
+    "color": "DEFAULT",
+    "quality": "Обычный",
+    "category": "gravity"
+  }
+]

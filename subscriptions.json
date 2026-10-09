@@ -1,0 +1,28 @@
+{
+  "421694478697365504": [
+    {
+      "item_id": "qj1lk",
+      "name": "Бронекостюм «КЗ-4»",
+      "max_price": 4600000,
+      "rarity": null,
+      "refinement": null,
+      "mode": "fixed"
+    },
+    {
+      "item_id": "j56d6",
+      "name": "Прицел коллиматорный Barska",
+      "max_price": 1220000,
+      "rarity": null,
+      "refinement": null,
+      "mode": "fixed"
+    },
+    {
+      "item_id": "knqkv",
+      "name": "Экзоброня «Альбатрос-Разведчик»",
+      "max_price": 3699999,
+      "rarity": null,
+      "refinement": null,
+      "mode": "fixed"
+    }
+  ]
+}
